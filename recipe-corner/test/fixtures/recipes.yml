@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  process: MyString
+  image: MyString
+  ingredients: 
+
+two:
+  process: MyString
+  image: MyString
+  ingredients: 
